@@ -77,19 +77,19 @@ The chatbot uses a **Retrieval-Augmented Generation (RAG)** pipeline to:
 
 ## How to Run
 
-### 1️⃣ Install dependencies
+### 1️. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ (Optional) Build medical knowledge base
+### 2️. Build medical knowledge base
 
 ```bash
 python src/import_db.py
 ```
 
-### 3️⃣ Run the application
+### 3. Run the application
 
 ```bash
 python src/app.py
@@ -107,10 +107,10 @@ python src/app.py
 
 ## Key Features
 
-* ✅ Automated fracture detection from X-ray images
-* ✅ Body-part–specific deep learning models
-* ✅ RAG chatbot with medical bone knowledge
-* ✅ Explainable AI support for medical understanding
+* Automated fracture detection from X-ray images
+* Body-part–specific deep learning models
+* RAG chatbot with medical bone knowledge
+* Explainable AI support for medical understanding
 
 ---
 
@@ -129,6 +129,6 @@ This project is for **educational and research purposes only**. It is **not inte
 
 ---
 
-## 👤 Author
+## Author
 
 Developed as an academic deep learning & medical AI project by Khanh Vu Quoc, Vinh Tieu Dang, Tai Le Nguyen Minh, Ngoc Bao Doan Gia.
