@@ -1,4 +1,4 @@
-# Bone Fracture Diagnosis & RAG Chatbot System
+# Bone Fracture Diagnosis and RAG Chatbot System
 
 This repository contains an **AI-powered medical imaging system** for **bone fracture diagnosis from X-ray images**, combined with a **Retrieval-Augmented Generation (RAG) chatbot** that provides bone anatomy and fracture-related medical knowledge.
 
